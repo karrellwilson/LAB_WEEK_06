@@ -58,6 +58,55 @@ class MainActivity : AppCompatActivity() {
                     "Curious George",
                     "Award winning investigator",
                     "https://cdn2.thecatapi.com/images/bar.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.AmericanCurl,
+                    "Shadow",
+                    "Loves to nap in sunbeams",
+                    "https://cdn2.thecatapi.com/images/53h.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.BalineseJavanese,
+                    "Luna",
+                    "Very playful and energetic",
+                    "https://cdn2.thecatapi.com/images/42k.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.ExoticShorthair,
+                    "Oliver",
+                    "A true gentleman",
+                    "https://cdn2.thecatapi.com/images/7qs.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.AmericanCurl,
+                    "Cleo",
+                    "Queen of the house",
+                    "https://cdn2.thecatapi.com/images/9p4.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.BalineseJavanese,
+                    "Leo",
+                    "Brave and adventurous",
+                    "https://cdn2.thecatapi.com/images/a4a.jpg"
+                ),
+                CatModel(
+                    Gender.Unknown,
+                    CatBreed.ExoticShorthair,
+                    "Milo",
+                    "Loves food more than anything",
+                    "https://cdn2.thecatapi.com/images/ck8.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.BalineseJavanese,
+                    "Nala",
+                    "Graceful and elegant",
+                    "https://cdn2.thecatapi.com/images/b2k.jpg"
                 )
             )
         )
